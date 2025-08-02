@@ -5,7 +5,7 @@ A full-featured and responsive E-commerce web application developed by Aghera Ma
 
 LIVE DEMO :
 
-[Live Demo](https://managhera.github.io/E-commerce-Website/)
+[Live Demo](https://managhera.github.io/E-commerce-Website/). 
  
 <br/>
 
@@ -25,7 +25,7 @@ LIVE DEMO :
 
 🔎 Product Search & Filters
 
-📱 Fully Responsive Design
+📱 Fully Responsive Design. 
 
 
  
@@ -42,7 +42,7 @@ Version Control: Git & GitHub
 [ Work On :
 Backend: Node.js / PHP / Django / Java (specify your stack)
 
-Database: MySQL / MongoDB / Firebase (specify your DB) ]
+Database: MySQL / MongoDB / Firebase (specify your DB) ]. 
 
  
 <br/>
@@ -54,7 +54,7 @@ Database: MySQL / MongoDB / Firebase (specify your DB) ]
 ├── index.html / script.js / style.css
 ├── /based.css
 ├── /assets 
-└── README.md
+└── README.md 
 
  
 <br/>
@@ -64,20 +64,30 @@ Database: MySQL / MongoDB / Firebase (specify your DB) ]
 
 1. Clone the repo
 
-git clone -Enter url of repo
+git clone -Enter url of repo. 
 
 
  
 <br/>
 
+ 
+<br/>
 
 🧑‍💻 Author
 
 Developed by Aghera Man
 
+ 
+<br/>
+
 📧 [manpatel0206@gamil.com]
+
+<br/>
+
 🔗 [Linkdin](https://www.linkedin.com/in/man-aghera-04964b319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
+ 
+<br/>
  
 <br/>
 
