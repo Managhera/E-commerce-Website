@@ -1,7 +1,7 @@
 🛒 E-Commerce Website
 
-A full-featured and responsive E-commerce web application developed by Aghera Man. This project is built to simulate a modern online shopping experience, offering functionalities such as user registration, product browsing, cart management, order placement, and admin product control.
-
+A full-featured and responsive E-commerce web application developed by Aghera Man. This project is built to simulate a modern online shopping experience, offering functionalities such as user registration, product browsing, cart management, order placement, and admin product control.  
+<br/>
 
 LIVE DEMO :
 
