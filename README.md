@@ -50,11 +50,11 @@ Database: MySQL / MongoDB / Firebase (specify your DB) ].
 
 📁 Project Structure
 
-/ecommerce-website
-├── index.html / script.js / style.css
-├── /based.css
-├── /assets 
-└── README.md 
+/ecommerce-website <br/>
+├── index.html / script.js / style.css <br/>
+├── /based.css <br/>
+├── /assets <br/>
+└── README.md <br/>
 
  
 <br/>
